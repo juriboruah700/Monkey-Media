@@ -24,11 +24,7 @@
     "music",
     "video"
   ],
-  "author": "Tim Nguyen",
-  "contributors": [
-    "Mohamed Hadjoudj",
-    "Daniell Mesquita"
-  ],
+  "author": ""
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/nt1m/media-player/issues"
